@@ -1,19 +1,16 @@
 <h2 style="margin-bottom: 0;" align="center">Check Internet Connection</h2>
 
-<p align="center">
-<img src="https://github.com/emondd4/pokedex_assessment/blob/master/readme_data/logo.png" height="100" width="100">
-<h3 style="margin-top: 0;" align="center">Assessment Based on PokeDex API</h3>
-</p>
-	
 ## App Screenshots
 <table>
   <tr>
-     <td align="center">Screenshot</td>
-     <td align="center">Screen Record</td>
+     <td align="center">Screenshot 01</td>
+     <td align="center">Screenshot 02</td>
+     <td align="center">Screenshot 03</td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/emondd4/pokedex_assessment/blob/master/readme_data/screenshot.jpg" height="400" width="200"></td>
-    <td valign="top"><img src="https://github.com/emondd4/pokedex_assessment/blob/master/readme_data/video.gif" height="400" width="200"></td>
+    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/screenshot_1.jpeg" height="400" width="200"></td>
+    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/screenshot_2.png" height="400" width="200"></td>
+	      <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/screenshot_3.png" height="400" width="200"></td>
   </tr>
  </table>
  <br>
@@ -39,16 +36,16 @@
 
 ### Install the apk
 
-<a href="https://github.com/emondd4/pokedex_assessment/blob/master/readme_data/app-debug.apk"><img alt="Download Debug APK" src="https://media-blog.cdnandroid.com/wp-content/uploads/sites/3/sites/3/2015/06/apk-1.png" width="185" height="70"/></a>
+<a href="https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/application.apk"><img alt="Download Debug APK" src="https://media-blog.cdnandroid.com/wp-content/uploads/sites/3/sites/3/2015/06/apk-1.png" width="185" height="70"/></a>
 
-Go to the following [link](https://github.com/emondd4/pokedex_assessment/blob/master/readme_data/app-debug.apk) to download the app.
+Go to the following [link](https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/application.apk) to download the app.
 
 ### Directory Structure
 
 The following is a high level overview of relevant files and folders.
 
 ```
-PokeDex Assessment
+Check Internet Connection
 └───asset
 └───fonts
 └───lib
@@ -57,9 +54,9 @@ PokeDex Assessment
     └─── main.dart
     └─── Readme_data
     		|----- debug_apk.apk
-		|----- screenshot.jpg
-		|----- logo.png
-		|----- video.gif
+		|----- screenshot_01.jpg
+		|----- screenshot_02.jpg
+		|----- screenshot_03.jpg
  
 ```
 
